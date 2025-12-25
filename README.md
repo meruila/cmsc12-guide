@@ -1,2 +1,13 @@
 # cmsc12-guide
-Practice exercises collected from different platforms for CMSC12 students
+Practice exercises and references collected from different platforms for CMSC12 students
+
+Week 1: Introduction
+Week 2: Conditionals
+Week 3: Iteration
+Week 4: Functions
+Week 5: Lists and Strings
+Week 6: Dictionaries
+Week 7: Files and Import
+Week 8: HTML
+Week 9: CSS
+Week 10: Javascript
