@@ -1,6 +1,6 @@
-# cmsc12-guide
+# CMSC 12 Lab Guide
 
-Practice exercises and references collected from different platforms for CMSC12 students
+Practice exercises and references collected from different platforms for CMSC12 students.
 
 [Week 1: Introduction](./introduction.md)
 Week 2: Conditionals
