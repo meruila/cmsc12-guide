@@ -19,23 +19,22 @@ The problems here do not need selection and iterative statements.
 ### Input & Output
 
 1. [Hello World!](https://open.kattis.com/problems/hello)
-2. 
-3. [Accept Two Numbers | Pynative](https://pynative.com/python-input-and-output-exercise/#h-exercise-1-accept-numbers-from-user)
-4. [Display Float Number in Two Decimal Places | Pynative](https://pynative.com/python-input-and-output-exercise/#h-exercise-4-display-float-number-with-2-decimal-places)
+
+2. [Accept Two Numbers | Pynative](https://pynative.com/python-input-and-output-exercise/#h-exercise-1-accept-numbers-from-user)
+
+3. [Display Float Number in Two Decimal Places | Pynative](https://pynative.com/python-input-and-output-exercise/#h-exercise-4-display-float-number-with-2-decimal-places)
 
 ### Operations
 
 1. [Sum of Two Numbers | Edabit](https://edabit.com/challenge/rZToTkR5eB9Zn4zLh)
 
-2. [Area of a Triangle | Edabit](https://edabit.com/challenge/aWLTzrRsrw7RakYrN)
+2. [Minutes to Seconds | Edabit](https://edabit.com/challenge/FQyaaJx7orS7tiwz8)
 
-3. [Minutes to Seconds | Edabit](https://edabit.com/challenge/FQyaaJx7orS7tiwz8)
+3. [Variables and Some Arithmetic | Rosalind](https://rosalind.info/problems/ini2/)
 
-4. [Variables and Some Arithmetic | Rosalind](https://rosalind.info/problems/ini2/)
+4. [Arithmetic Operators | HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
 
-5. [Arithmetic Operators | HackerRank](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)
-
-6. [Python: Division | HackerRank](https://www.hackerrank.com/challenges/python-division/problem)
+5. [Python: Division | HackerRank](https://www.hackerrank.com/challenges/python-division/problem)
 
 ### More Practice Problems
 
