@@ -4,7 +4,7 @@ Extra practice exercises and references collected from different platforms for C
 
 [Week 1: Introduction](./01_introduction.md)
 [Week 2: Selection](./02_selection.md)
-Week 3: Iteration
+[Week 3: Iteration](./03_iteration.md)
 Week 4: Functions
 Week 5: Lists and Strings
 Week 6: Dictionaries
