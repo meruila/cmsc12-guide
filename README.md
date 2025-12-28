@@ -1,9 +1,9 @@
 # CMSC 12 Lab Guide
 
-Practice exercises and references collected from different platforms for CMSC12 students.
+Extra practice exercises and references collected from different platforms for CMSC12 students. Lab assessments are not posted here.
 
-[Week 1: Introduction](./introduction.md)
-Week 2: Conditionals
+[Week 1: Introduction](./01_introduction.md)
+[Week 2: Selection](./02_selection.md)
 Week 3: Iteration
 Week 4: Functions
 Week 5: Lists and Strings
@@ -13,3 +13,5 @@ Week 8: Abstract Data Types
 Week 9: HTML
 Week 10: CSS
 Week 11: Javascript
+
+[Python Problems by Ilkka Kokkarinen](https://github.com/ikokkari/PythonProblems/tree/main)
