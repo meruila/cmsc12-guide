@@ -1,5 +1,7 @@
 # Dictionaries
 
+Note that as of Python v3.7, dictionaries are now *ordered*. In Python 3.6 and earlier, dictionaries are unordered.
+
 1. [Dictionary in Python (Examples and Practice) | Codechef](https://www.codechef.com/blogs/dictionary-in-python)
 
 2. [Inventory Management | Exercism](https://exercism.org/tracks/python/exercises/inventory-management)
