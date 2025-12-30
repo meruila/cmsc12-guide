@@ -8,7 +8,7 @@
 
 3. [Drinking Song | Kattis, Kattis](https://open.kattis.com/problems/drinkingsong)
 
-4. [xyz_there | CodingBat](https://codingbat.com/prob/p149391)
+4. [Snakey String | Kattis](https://open.kattis.com/problems/snakeystring)
 
 5. [String Split and Join | HackerRank](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 
