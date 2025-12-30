@@ -1,6 +1,6 @@
 # CMSC 12 Lab Guide
 
-Extra practice exercises and references collected from different platforms for CMSC12 students. Weeks 1 to 8 teach introductory topics in Python. Weeks 9 to 11 teach web development technologies in preparation for CMSC 100. Lab assessments are not posted here.
+Extra practice exercises and references collected from different platforms for CMSC12 students. Weeks 1 to 8 teach introductory topics in Python. Weeks 9 to 11 teach web development technologies in preparation for CMSC100. Lab assessments and discussion slides are not posted here.
 
 - [Week 1: Introduction](./01_introduction.md)
 
@@ -10,11 +10,11 @@ Extra practice exercises and references collected from different platforms for C
 
 - [Week 4: Functions](./04_functions.md)
 
-- Week 5: Lists and Strings
+- [Week 5: Lists and Strings](./05_lists-and-strings.md)
 
-- Week 6: Dictionaries
+- [Week 6: Dictionaries](./06_dictionaries.md)
 
-- Week 7: Files and Import
+- [Week 7: Files and Import](07_files-and-import.md)
 
 - Week 8: Abstract Data Types
 
