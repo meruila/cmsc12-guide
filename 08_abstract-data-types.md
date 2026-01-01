@@ -20,8 +20,6 @@ ADTs are tackled in the lecture but not in the laboratory. Four ADTs are usually
 
 3. [I Can Guess the Data Structure! | Kattis](https://open.kattis.com/problems/guessthedatastructure) (stack/queue/priority queue)
 
-4. 
-
 ### Trees
 
 1. [Kitten on a Tree | Kattis](https://open.kattis.com/problems/kitten)
