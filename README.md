@@ -16,16 +16,18 @@ The repository contains extra practice exercises and references collected from d
 
 - [Week 7: Files and Import](07_files-and-import.md)
 
-- Week 8: Abstract Data Types
+- [Week 8: Abstract Data Types](./08_abstract-data-types.md)
 
-- Week 9: HTML
+- [Week 9: HTML](./09_html.md)
 
-- Week 10: CSS
+- [Week 10: CSS](./10_css.md)
 
-- Week 11: JavaScript
+- [Week 11: JavaScript](./11_javascript.md)
 
 ### Other resources
 
 - [Python Problems by Ilkka Kokkarinen](https://github.com/ikokkari/PythonProblems/tree/main)
 
 - [Curated list of project-based tutorials by Axel Baudot](https://github.com/practical-tutorials/project-based-learning)
+
+- [visualising data structures and algorithms through animation - VisuAlgo](https://visualgo.net/en)
