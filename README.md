@@ -1,6 +1,10 @@
 # CMSC12 Lab Guide
 
-The repository contains extra practice exercises and references collected from different platforms for students of CMSC12: Foundations of Computer Science. Weeks 1 to 8 teach introductory topics in Python. Weeks 9 to 11 teach web development technologies in preparation for CMSC100: Web Programming. Lab assessments and discussion slides are not posted here.
+The repository contains extra practice exercises and references collected from different platforms for students of CMSC12: Foundations of Computer Science.  
+
+Weeks 1 to 8 teach introductory topics in Python. Weeks 9 to 11 teach web development technologies in preparation for CMSC100: Web Programming. Lab assessments and discussion slides are not posted here.  
+
+Problems collected by Mirella Arguelles.
 
 - [Week 1: Introduction](./01_introduction.md)
 
