@@ -12,7 +12,7 @@
 
 1. [HTML Elements | W3Schools](https://www.w3schools.com/html/html_elements.asp)
 
-2. [HTML Input Types | W3Schools]([HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
+2. [HTML Input Types | W3Schools](https://www.w3schools.com/html/html_form_input_types.asp)
 
 3. [HTML Exercises | W3Schools](https://www.w3schools.com/html/html_exercises.asp)
 
